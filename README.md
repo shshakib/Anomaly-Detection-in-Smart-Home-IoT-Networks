@@ -6,6 +6,7 @@ Comparative Analysis of Machine Learning Methods for Anomaly Detection in Smart 
  [1] N. Koroniotis, N. Moustafa, E. Sitnikova, and J. Slay, “Towards developing network forensic
  mechanism for botnet activities in the iot based on machine learning techniques,” in International
  Conference on Mobile Networks and Management, pp. 30–44, Springer, Cham, 2017.
+ 
  [2] N. Koroniotis, N. Moustafa, E. Sitnikova, and B. Turnbull, “Towards the development of realistic
  botnet dataset in the internet of things for network forensic analytics: Bot-iot dataset,” Future
  Generation Computer Systems, vol. 100, pp. 779–796, 2019.
